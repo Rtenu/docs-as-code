@@ -10,6 +10,7 @@ plugins:
 nav:
   - Главная: index.md
   - Проект:
-      - Описание: project/overview.md
+      - Описание проекта: project/overview.md
       - Требования: project/requirements.md
       - Диаграммы: project/diagrams.md
+      - API: api/index.md
